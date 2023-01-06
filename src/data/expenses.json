@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Обед",
+    "price": 2550,
+    "tags": [
+      {
+        "id": 0,
+        "name": "Теги"
+      }
+    ],
+    "date": "2022-07-31",
+    "users": [
+      {
+        "id": 0,
+        "name": "Даурен",
+        "image": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Fb445839c-4fa0-473b-9f70-5bd23f24db87%2FZRIxHeOOMHQ.jpg?width=40&userId=ab5e599d-f125-4e68-8d65-2e89390bb922&cache=v2"
+      },
+      {
+        "id": 1,
+        "name": "Салта",
+        "image": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F326f062f-4c29-494b-aafc-0c0b06bec883%2FPoison_Touch_icon.png?width=40&userId=ab5e599d-f125-4e68-8d65-2e89390bb922&cache=v2"
+      }
+    ]
+  }
+]
